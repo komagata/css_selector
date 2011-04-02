@@ -1,6 +1,6 @@
 = css_selector
 
-Filtering by CSS Selector
+Filtering Text by CSS Selector
 
 == Usage
 
