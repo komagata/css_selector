@@ -1,6 +1,12 @@
 = css_selector
 
-Description goes here.
+Filtering by CSS Selector
+
+== Usage
+
+  $ gem install css_selector
+  $ curl http://lokka.org | css_selector 'html head title'
+  Lokka - CMS for Cloud
 
 == Contributing to css_selector
  
