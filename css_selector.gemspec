@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Masaki Komagata"]
-  s.date = %q{2011-04-02}
+  s.date = %q{2011-04-03}
   s.default_executable = %q{css_selector}
   s.description = %q{Filtering STDIN by CSS Selector}
   s.email = %q{komagata@gmail.com}
@@ -22,10 +22,13 @@ Gem::Specification.new do |s|
     ".document",
     ".rspec",
     "Gemfile",
+    "Gemfile.lock",
     "LICENSE.txt",
     "README.rdoc",
     "Rakefile",
     "VERSION",
+    "bin/css_selector",
+    "css_selector.gemspec",
     "lib/css_selector.rb",
     "spec/css_selector_spec.rb",
     "spec/spec_helper.rb"
