@@ -1,4 +1,6 @@
 source "http://rubygems.org"
+
+gem 'nokogiri'
 # Add dependencies required to use your gem here.
 # Example:
 #   gem "activesupport", ">= 2.3.5"
